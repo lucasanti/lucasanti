@@ -1,4 +1,4 @@
 # <>👋 Hello world!</>
 
-<img src="https://www.lucasanti.net/images/luca-santi-profile-w">
+![Luca Santi](https://github.com/lucasanti/[main]/images/luca-santi-github-avatar-bw.jpg?raw=true)
 
