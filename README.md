@@ -1,5 +1,7 @@
 # 👋🏼 Hello world!
-<img src="./luca-santi-github-avatar-bw.png" height="80px" width="auto" style="margin-right:4px" alt="Luca Santi Github Avatar black&white"/> I am Front End Developer and UX Expert in Università Commerciale Luigi Bocconi.  
+<img src="./luca-santi-github-avatar-bw.png" height="80px" width="auto" style="margin-right:4px; border-radius: 40px" alt="Luca Santi Github Avatar black&white"/> 
+
+I am Front End Developer and UX Expert in Università Commerciale Luigi Bocconi.  
 
 ---
 ## 🥸 About
