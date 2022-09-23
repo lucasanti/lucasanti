@@ -1,10 +1,8 @@
 # 👋🏼 Hello world!
-<img src="./luca-santi-github-avatar-bw.png" height="80px" width="80px" style="margin-right:4px; border-radius: 40px" alt="Luca Santi Github Avatar black&white"/> 
-
 I am Front End Developer and UX Expert in Università Commerciale Luigi Bocconi.  
 
 ---
-## 🥸 About
+## 🧔🏻‍♂️ About
 I work on different projects involving different technologies, trying always to create better experiences on web.
 
 From a traditional Monolith architectures, I am moving to Micro-services architecture in the direction of Micro-Front-Ends dimension
