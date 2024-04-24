@@ -1,5 +1,5 @@
 # 👋🏼 Hello world!
-I am Front End Developer and UX Expert in Università Commerciale Luigi Bocconi.  
+I am Front End Developer and UX Expert @UB - Università Commerciale Luigi Bocconi.  
 ## 🧔🏻‍♂️ About
 I work on different projects involving different technologies, trying always to create better experiences on web.
 From a traditional vision based on Monolithic architectures, I am moving towards the architecture based on the continuous integration of Micro-services, in the direction of the Micro-Front-End dimension and deploy on Serverless structures in Cloud.
